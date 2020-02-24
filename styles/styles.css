@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  display: grid;
+  height: 100vh;
+  place-items: center;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-container__item {
+  height: 300px;
+}
